@@ -80,7 +80,7 @@ Ejecuta el script
 brew search php
 ```
 
-### Paso 5 (opcional)
+### Paso 6 (opcional)
 Si vas a interactuar siempre con tu Usuario real de Windows, te recomiendo crear un enlace simbólico (*symlink*) desde tu carpeta *home* de Debian, para que cada vez lo abras tengas acceso directo a tu escritorio, documentos, etc. Así, te evitas estar escribiendo siempre la ruta completa.
 
 Puedes convertir esto:
